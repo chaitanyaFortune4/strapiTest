@@ -1,1 +1,1 @@
-# strapiTestV1
+# strapiTestV2
